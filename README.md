@@ -39,3 +39,11 @@ O projeto foi desenvolvido seguindo a metodologia Mobile First, garantindo excel
 
 Criar uma plataforma visualmente atraente para apresentação de veículos em leilão, transmitindo confiança, credibilidade e facilidade de navegação.
 
+
+
+👨‍💻 Autor
+
+Alan Bonfim
+
+Desenvolvedor Full Stack em formação.
+
